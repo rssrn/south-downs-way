@@ -14,11 +14,12 @@ Winchester → Chilcomb (2.5) → Exton (12.5) → East Meon area (17) → Burit
 |-------|-------|-----------|-------|-----------|-----------|
 | **Fri 24 Apr** | Winchester (Travelodge) | Travel after work | — | — | **£70** |
 | **Sat 25 (Day 1)** | Crossways, Exton | Winchester → Exton | 12.5 | 326m | **~£85–100** |
-| **Sun 26 (Day 2)** | Hampshire Hog, Clanfield | Exton → Clanfield via Butser Hill | ~13 + 1.5 off-trail | 503m (Butser Hill) | **£107** advance |
-| **Mon 27 (Day 3)** | Manor Farm, Cocking | Clanfield → Cocking via Harting Down | ~11 + detours | 439m | **£75** |
-| Tue 28+ | **Not yet researched** | Cocking → Amberley → ... | | | |
+| **Sun 26 (Day 2)** | Hampshire Hog, Clanfield | Exton → Clanfield via Butser Hill | 12.5 on-trail + 0.5 off | 503m (Butser Hill) | **£107** advance |
+| **Mon 27 (Day 3)** | Manor Farm, Cocking | Clanfield → Cocking via Harting Down | 11.5 on-trail + 1.5 off | 439m | **£75** |
+| **Tue 28 (Day 4)** | Black Horse or Sportsman, Amberley | Cocking → Amberley | 12 on-trail + 1 off | 422m | **£110–120** |
+| Wed 29+ | **Not yet researched** | Amberley → Steyning → ... | | | |
 
-**Total first 4 nights: ~£337–352** covering ~36.5 trail miles.
+**Total first 5 nights: ~£447–502** covering ~48.5 trail miles.
 
 **Key advantages of this plan:**
 - Friday Travelodge avoids brutal Saturday Winchester pricing (£99–172 elsewhere)
@@ -48,6 +49,8 @@ Winchester → Chilcomb (2.5) → Exton (12.5) → East Meon area (17) → Burit
 | 5 | **Copper Beeches, nr S Harting** | Current B&B rate? | 01730 826662 |
 | 6 | **The Elsted Inn** | Current room rate? Breakfast? | 07595 933647 |
 | 7 | **The Blue Bell, Cocking** | Current room rate? | 01730 239 669 |
+| 8 | **The Black Horse, Amberley** | Are you open? Room available Tue 28 Apr? | Verify via website/phone |
+| 9 | **The Sportsman, Amberley** | Room available Tue 28 Apr? | Verify via website/phone |
 
 ---
 
@@ -157,7 +160,7 @@ This is the weakest section for accommodation. Buriton village (0.5mi off trail)
 |----------|------|----------------|-----------|-------|
 | **Five Bells, Buriton** | Pub + self-catering cottages | **Unknown — must phone** | No (self-catering). Pub food on site. | 2 one-bedroom cottages, 0.5mi from trail. Popular with walkers. Mixed reviews. ☎ 01730 263584 / fivebells-buriton.co.uk |
 | **The Nest Hotel, Buriton** | Boutique hotel | **£130+** | Unknown | **Not open Sun/Mon/Tue** — rules it out for Sun 26 Apr. |
-| **Hampshire Hog, Clanfield** | Pub with rooms (Fuller's) | **£107** advance / **£119** flexible (Sun 26 Apr) | Included | 20 rooms. 1.5–2mi south of trail BUT at **140m altitude — same as the trail at the A3 crossing**, so no extra descent penalty (unlike Buriton at 80m). Dog-friendly (£20). Electric car charging. ☎ 023 9259 1083 / thehampshirehog.co.uk |
+| **Hampshire Hog, Clanfield** | Pub with rooms (Fuller's) | **£107** advance / **£119** flexible (Sun 26 Apr) | Included | 20 rooms. **0.5mi south of trail** (lat 50.95248, lon -0.98334, 145m). Closest trail point: lat 50.95814, lon -0.97817, 106m — **+39m climb from trail**. At similar altitude to trail low point after Butser Hill, so no significant extra climbing penalty (unlike Buriton at 80m). Dog-friendly (£20). Electric car charging. ☎ 023 9259 1083 / thehampshirehog.co.uk |
 | **Premier Inn Petersfield** | Budget chain | **~£50–80** | Extra ~£22 for two | 2.5mi off trail + significant climb back to ridge. Last resort. |
 
 **Verdict:** The **Hampshire Hog at £107 advance (Sun 26 Apr) with breakfast** is the leading option for Night 2. More than the original £79 estimate but confirmed real pricing. 20 rooms (availability likely). Crucially sits at the same altitude as the trail's low point after Butser Hill — you don't lose any height you wouldn't lose anyway. Buriton village at ~80m would mean descending an extra 60m below the trail. Still worth phoning the **Five Bells** in case their cottages are cheaper/better located.
@@ -189,12 +192,27 @@ This is the weakest section for accommodation. Buriton village (0.5mi off trail)
 
 | Property | Type | Price (double) | Price (single) | Breakfast | Notes |
 |----------|------|----------------|----------------|-----------|-------|
-| **Manor Farm** | B&B (farmhouse) | **£75** | **£50** | Full English (farm-produced) | **Cheapest confirmed B&B in this stretch.** Working farm. Packed lunches available. Only 1 room — book early. ☎ 01730 814156 / manorfarmcocking.co.uk |
+| **Manor Farm — Log Cabin** | Self-catering (Airbnb) | **£126** | — | No | Working farm. Available Mon 27 Apr. Book via Airbnb. |
+| **Manor Farm — Shepherd's Hut** | Self-catering (Airbnb) | **£109** | — | No | Working farm. Available Mon 27 Apr. Book via Airbnb. |
+| **Manor Farm** | B&B (farmhouse) | **£75** | **£50** | Full English (farm-produced) | **Cheapest confirmed B&B in this stretch** if still available. Packed lunches available. Only 1 room — book early. ☎ 01730 814156 / manorfarmcocking.co.uk |
 | **The Blue Bell** | Pub (community-owned) | **~£100–130** ⚠️ | Unknown | Light continental only | 3 en-suite rooms. ☎ 01730 239 669 / thebluebellatcocking.co.uk |
 | **Moonlight Cottage** | Guest house | **~£90–130** ⚠️ | Unknown | Continental included | Walker-friendly: bag transfers, packed lunches. 4 rooms. ☎ 01730 815469 / moonlightcottage.co.uk |
 | **Hysett House** | B&B | **~£120–160** ⚠️ | Unknown | Included | 1 room. Highly rated but expensive. Via booking.com |
 
-**Verdict:** Manor Farm at £75 is the star. Book it ASAP — 1 room only.
+**Verdict:** Manor Farm B&B at £75 is the star if still available — phone to check. Otherwise the Shepherd's Hut at £109 via Airbnb is the next best option. The Log Cabin at £126 is pricier but available.
+
+---
+
+## Mile 48.5 — Amberley (ON trail)
+
+Amberley station is right on the trail (rail bail-out point). Cross the River Arun here. Trail mile 48.5, so Day 4 from Cocking (mile 36.5) = 12mi on trail.
+
+| Property | Type | Price (double) | Breakfast | Notes |
+|----------|------|----------------|-----------|-------|
+| **The Black Horse** | Pub with rooms | **£110** (Tue 28 Apr) | Unknown | ⚠️ **Only 1 room left.** ⚠️ Google Maps shows "temporarily closed" — may be inaccurate, verify before booking. |
+| **The Sportsman** | Pub with rooms | **£120** (Tue 28 Apr) | Unknown | ⚠️ **Possibly only 1 room left.** |
+
+**Verdict:** Both options are tight on availability. The Black Horse at £110 is cheaper but the "temporarily closed" Google Maps flag needs checking. The Sportsman at £120 is the safer bet. Book one ASAP — Amberley has very limited accommodation and these may be the only options.
 
 ---
 

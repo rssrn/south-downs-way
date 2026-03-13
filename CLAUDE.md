@@ -62,23 +62,26 @@ Miles 0–37 (Winchester to Cocking) are researched in detail in accommodation-o
 - Crossways B&B, Exton: ~£85–100 unconfirmed (mile 12.5, ON trail)
 - SD Eco Lodge hostel twin: £70 (mile ~17, ON trail) — **has availability late April**
 - SD Eco Lodge B&B: from ~£70 (mile ~17, ON trail)
-- Hampshire Hog, Clanfield: **£107 advance / £119 flexible** (Sun 26 Apr) inc breakfast (mile ~25.5 area, 1.5mi off trail, 140m altitude = same as trail low point post-Butser Hill — no extra climbing penalty)
+- Hampshire Hog, Clanfield: **£107 advance / £119 flexible** (Sun 26 Apr) inc breakfast (mile ~25, **0.5mi off trail**, lat 50.95248 lon -0.98334, 145m altitude — +39m climb from trail, similar to trail low point post-Butser Hill — no significant extra climbing penalty)
 - Nest Hotel, Buriton: £130+ and **closed Sun/Mon/Tue** — not an option
-- Manor Farm, Cocking: £75 inc breakfast (mile ~36.5, 1mi off trail) — cheapest B&B found, only 1 room
+- Manor Farm, Cocking: B&B £75 inc breakfast (mile ~36.5, 1mi off trail) — cheapest option, only 1 room. Also on Airbnb: **Shepherd's Hut £109**, **Log Cabin £126** (both available Mon 27 Apr, self-catering)
 - Five Bells, Buriton: self-catering cottages, **price unknown — must phone**
+- Black Horse, Amberley: **£110** (Tue 28 Apr) — ⚠️ only 1 room left, ⚠️ Google Maps says "temporarily closed" (may be wrong)
+- The Sportsman, Amberley: **£120** (Tue 28 Apr) — ⚠️ possibly only 1 room left
 
-### Emerging Itinerary (first 3 walking days)
+### Emerging Itinerary (first 4 walking days)
 | Night | Where | Day's walk | Miles | Cost |
 |-------|-------|-----------|-------|------|
 | Fri 24 | Travelodge Winchester | Travel (eve) | — | £70 |
 | Sat 25 | Crossways, Exton | Winchester → Exton | 12.5 | ~£85–100 |
-| Sun 26 | Hampshire Hog, Clanfield | Exton → Clanfield (Butser Hill) | ~14.5 | £107 |
-| Mon 27 | Manor Farm, Cocking | Clanfield → Cocking (Harting Down) | ~11 | £75 |
-| Tue 28+ | Not yet researched | Cocking → Amberley → ... | | |
+| Sun 26 | Hampshire Hog, Clanfield | Exton → Clanfield (Butser Hill) | 13 (12.5 + 0.5 off) | £107 |
+| Mon 27 | Manor Farm, Cocking | Clanfield → Cocking (Harting Down) | 13 (11.5 + 1.5 off) | £75–126 |
+| Tue 28 | Black Horse or Sportsman, Amberley | Cocking → Amberley | 13 (12 + 1 off) | £110–120 |
+| Wed 29+ | Not yet researched | Amberley → Steyning → ... | | |
 
 ### Next Steps
-- **Phone calls:** Five Bells Buriton (cottage price), Manor Farm Cocking (confirm £75 + availability), Crossways Exton (rate), SD Eco Lodge (prices). See priority list in accommodation-options.md.
-- **Research accommodation miles 37–68:** Cocking → Amberley → Steyning → Pyecombe area
+- **Phone calls:** Black Horse Amberley (verify open + availability!), Five Bells Buriton (cottage price), Manor Farm Cocking (confirm £75 B&B availability), Crossways Exton (rate), SD Eco Lodge (prices). See priority list in accommodation-options.md.
+- **Book urgently:** Black Horse or Sportsman Amberley (1 room each!), Manor Farm Cocking, Crossways Exton
+- **Research accommodation miles 48–68:** Amberley → Steyning → Pyecombe area
 - **Decide on Brighton accommodation** for rest day(s)
-- **Book early:** Manor Farm (1 room), Crossways (1 room) — these will go fast
 - **Alternative staging:** "Chilcomb trick" remains a fallback if Friday travel doesn't work — see accommodation-options.md
