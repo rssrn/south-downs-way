@@ -2,7 +2,7 @@
 
 ## Overview
 
-Planning a multi-day walk on the South Downs Way, probably in April 2026. We have 1 week holiday, so with weekends a total of 9 days. We need a travel day at start and end, point of origin for travel is Bradford-On-Avon.
+Planning a multi-day walk on the South Downs Way. **Dates: Saturday 25 April 2026 to Monday 4 May 2026 inclusive (10 days).** We need a travel day at start and end, point of origin for travel is Bradford-On-Avon.
 
 It's for a couple - experienced walkers but not fast, aged 50-ish. We can probably go 8-12 miles per day. We won't be carrying a tent. We are price-sensitive, will need accommodation every night, high preference for accommodation on-trail or close walk to trail.
 
