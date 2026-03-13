@@ -13,8 +13,8 @@ Winchester → Chilcomb (2.5) → Exton (12.5) → East Meon area (17) → Burit
 | Night | Where | Day's walk | Miles | Key climb | Est. cost |
 |-------|-------|-----------|-------|-----------|-----------|
 | **Fri 24 Apr** | Winchester (Travelodge) | Travel after work | — | — | **£70** |
-| **Sat 25 (Day 1)** | Crossways, Exton | Winchester → Exton | 12.5 | 326m | **~£85–100** |
-| **Sun 26 (Day 2)** | Hampshire Hog, Clanfield | Exton → Clanfield via Butser Hill | 12.5 on-trail + 0.5 off | 503m (Butser Hill) | **£107** advance |
+| **Sat 25 (Day 1)** | ⏳ Long House or Ye Olde George, East Meon | Winchester → East Meon | ~16.5 on-trail + 1 off | ~400m | **£90–105** |
+| **Sun 26 (Day 2)** | Hampshire Hog, Clanfield | East Meon → Clanfield via Butser Hill | ~9 on-trail + 0.5 off | ~350m (Butser Hill) | **£107** advance |
 | **Mon 27 (Day 3)** | Manor Farm, Cocking | Clanfield → Cocking via Harting Down | 11.5 on-trail + 1.5 off | 439m | **£75** |
 | **Tue 28 (Day 4)** | Black Horse or Sportsman, Amberley | Cocking → Amberley | 12 on-trail + 1 off | 422m | **£110–120** |
 | Wed 29+ | **Not yet researched** | Amberley → Steyning → ... | | | |
@@ -102,7 +102,7 @@ Friday night arrival from Bradford-on-Avon (after work). Explore Winchester Satu
 
 | Property | Type | Price (double) | Breakfast | Notes |
 |----------|------|----------------|-----------|-------|
-| **Crossways B&B** | B&B | **~£85–100** ⚠️ unconfirmed | Included | Purpose-built for SDW walkers. 1 room (super-king or twin config). Self-contained with kitchen/diner. Boot storage. ☎ via crosswaysb.com |
+| **Crossways B&B** | B&B | ~~£85–100~~ | Included | ❌ **BOOKED Sat 25 Apr.** Purpose-built for SDW walkers. 1 room. They recommended Bucks Head, Meonstoke. |
 | **The Shoe Inn** | Pub | ❌ NO ROOMS | — | Gastropub, food only. Good for dinner. |
 
 **Note:** Exton is in the Meon Valley — you descend from the ridge to stay here and reascend next morning (~100m extra climb).
@@ -113,9 +113,9 @@ Friday night arrival from Bradford-on-Avon (after work). Explore Winchester Satu
 
 | Property | Type | Price (double) | Breakfast | Notes |
 |----------|------|----------------|-----------|-------|
-| **Bucks Head Inn** | Pub | **£140** | Included | 5 rooms. Riverside. thebucksheadmeonstoke.co.uk |
+| **Bucks Head Inn** | Pub | **£140** | Included | 5 rooms. Riverside. ✅ Available Sat 25 Apr. Recommended by Crossways. thebucksheadmeonstoke.co.uk |
 
-**Verdict:** Expensive fallback only.
+**Verdict:** Available but expensive (£140). Fallback if East Meon options don't work out.
 
 ---
 
@@ -124,7 +124,7 @@ Friday night arrival from Bradford-on-Avon (after work). Explore Winchester Satu
 | Property | Type | Price (double) | Breakfast | Notes |
 |----------|------|----------------|-----------|-------|
 | **The Long House B&B** | B&B | **£90** / **£55** single | Included | Owners pick up tired walkers from trail. thelonghouseeastmeon.co.uk |
-| **Ye Olde George Inn** | Pub | **~£95** | Continental incl; cooked +£10 | 15th-century coaching inn. 5 en-suite rooms. ☎ 01730 823 481. yeoldegeorgeinn.net |
+| **Ye Olde George Inn** | Pub | **£105** (Booking.com, Sat 25 Apr) | Continental incl; cooked +£10 | 15th-century coaching inn. 5 en-suite rooms. ☎ 01730 823 481. yeoldegeorgeinn.net |
 
 **Note:** Both require 1mi detour off the ridge into the valley.
 
