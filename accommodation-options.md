@@ -4,6 +4,24 @@ Winchester → Chilcomb (2.5) → Exton (12.5) → East Meon area (17) → Burit
 
 **Status:** Prices researched March 2026. Some prices unconfirmed (marked ⚠️). All prices are per room per night unless noted.
 
+### Accommodation Locations (lat/long/elevation)
+
+| Property | Lat | Long | Elev (m) | Trail mile | Off-trail |
+|----------|-----|------|----------|------------|-----------|
+| Travelodge Winchester | 51.0610 | -1.3140 | ~40 | 0 | In city |
+| Complyns, Chilcomb | 51.0530 | -1.2780 | ~85 | 2.5 | ON trail |
+| Crossways B&B, Exton | 50.9826 | -1.1280 | 61 | 12.5 | ON trail |
+| Bucks Head, Meonstoke | 50.9771 | -1.1294 | 57 | ~12.8 | 0.57mi |
+| Long House, East Meon | 50.9690 | -1.0870 | ~65 | ~16.5 | ~1mi |
+| Ye Olde George, East Meon | 50.9680 | -1.0850 | ~70 | ~16.5 | ~1mi |
+| SD Eco Lodge | 50.9720 | -1.0450 | ~170 | ~17 | ON trail |
+| Hampshire Hog, Clanfield | 50.9525 | -0.9833 | 145 | ~25 | 0.49mi |
+| Manor Farm, Cocking | 50.9440 | -0.7360 | ~50 | ~36.5 | ~1mi |
+| Black Horse, Amberley | 50.8930 | -0.5390 | ~10 | 48.5 | Near trail |
+| The Sportsman, Amberley | 50.8940 | -0.5410 | ~10 | 48.5 | Near trail |
+
+*Approximate values marked ~. GPX-verified values for Crossways, Bucks Head, and Hampshire Hog.*
+
 ---
 
 ## Emerging Plan (as of 13 March 2026)
@@ -13,17 +31,19 @@ Winchester → Chilcomb (2.5) → Exton (12.5) → East Meon area (17) → Burit
 | Night | Where | Day's walk | Miles | Key climb | Est. cost |
 |-------|-------|-----------|-------|-----------|-----------|
 | **Fri 24 Apr** | Winchester (Travelodge) | Travel after work | — | — | **£70** |
-| **Sat 25 (Day 1)** | ⏳ Long House or Ye Olde George, East Meon | Winchester → East Meon | ~16.5 on-trail + 1 off | ~400m | **£90–105** |
-| **Sun 26 (Day 2)** | Hampshire Hog, Clanfield | East Meon → Clanfield via Butser Hill | ~9 on-trail + 0.5 off | ~350m (Butser Hill) | **£107** advance |
+| **Sat 25 (Day 1)** | ✅ Bucks Head, Meonstoke | Winchester → Meonstoke | 11.9 trail + 0.57 off = 12.4 | 306m↑ 271m↓ | **£140** (booked & paid) |
+| **Sun 26 (Day 2)** | Hampshire Hog, Clanfield | Meonstoke → Clanfield via Butser Hill | 10.7 trail + 0.57 + 0.49 off = 11.8 | 341m↑ 298m↓ | **£107** advance |
 | **Mon 27 (Day 3)** | Manor Farm, Cocking | Clanfield → Cocking via Harting Down | 11.5 on-trail + 1.5 off | 439m | **£75** |
 | **Tue 28 (Day 4)** | Black Horse or Sportsman, Amberley | Cocking → Amberley | 12 on-trail + 1 off | 422m | **£110–120** |
 | Wed 29+ | **Not yet researched** | Amberley → Steyning → ... | | | |
 
-**Total first 5 nights: ~£447–502** covering ~48.5 trail miles.
+**Total first 5 nights: ~£497–533** covering ~48.5 trail miles (1 night booked: £140).
 
 **Key advantages of this plan:**
 - Friday Travelodge avoids brutal Saturday Winchester pricing (£99–172 elsewhere)
 - Extra day gained (11 days total: Fri 24 → Mon 4 May) gives buffer for rest/weather/flexibility
+- Bucks Head at 57m is at the same elevation as the trail through the Meon Valley — no climbing penalty
+- Day 2 (Butser Hill) is a manageable 11.8mi with the harder climbing
 - Hampshire Hog at 140m altitude = same level the trail descends to at the A3 crossing after Butser Hill, so **no extra climbing penalty** vs Buriton (which is at ~80m, lower than the trail)
 - Manor Farm Cocking is the cheapest confirmed B&B on the trail so far (£75 with farm-fresh full English)
 
@@ -44,8 +64,7 @@ Winchester → Chilcomb (2.5) → Exton (12.5) → East Meon area (17) → Burit
 |----------|----------|----------|-------|
 | 1 | **Five Bells, Buriton** | Cottage price for 1 night? Available Sun 26 Apr? | 01730 263584 |
 | 2 | **Manor Farm, Cocking** | Confirm £75 still current? Available Mon 27 Apr? | 01730 814156 |
-| 3 | **Crossways B&B, Exton** | Current room rate? Available Sat 25 Apr? | via crosswaysb.com |
-| 4 | **SD Eco Lodge** | Hostel twin / B&B room prices? | via southdownsecolodge.com |
+| 3 | **SD Eco Lodge** | Hostel twin / B&B room prices? | via southdownsecolodge.com |
 | 5 | **Copper Beeches, nr S Harting** | Current B&B rate? | 01730 826662 |
 | 6 | **The Elsted Inn** | Current room rate? Breakfast? | 07595 933647 |
 | 7 | **The Blue Bell, Cocking** | Current room rate? | 01730 239 669 |
@@ -102,20 +121,20 @@ Friday night arrival from Bradford-on-Avon (after work). Explore Winchester Satu
 
 | Property | Type | Price (double) | Breakfast | Notes |
 |----------|------|----------------|-----------|-------|
-| **Crossways B&B** | B&B | ~~£85–100~~ | Included | ❌ **BOOKED Sat 25 Apr.** Purpose-built for SDW walkers. 1 room. They recommended Bucks Head, Meonstoke. |
+| **Crossways B&B** | B&B | ~~£85–100~~ | Included | ❌ **BOOKED OUT Sat 25 Apr.** Purpose-built for SDW walkers. 1 room. They recommended Bucks Head, Meonstoke. |
 | **The Shoe Inn** | Pub | ❌ NO ROOMS | — | Gastropub, food only. Good for dinner. |
 
-**Note:** Exton is in the Meon Valley — you descend from the ridge to stay here and reascend next morning (~100m extra climb).
+**Note:** Exton is in the Meon Valley at ~60m elevation — the trail itself descends to this level to cross the River Meon, so there is **no extra climbing penalty** for staying in the valley here (unlike Buriton or Cocking where the trail stays on the ridge above).
 
 ---
 
-## Mile ~14 — Meonstoke (~1mi off trail)
+## Mile ~12.8 — Meonstoke (0.57mi OFF trail, valley)
 
 | Property | Type | Price (double) | Breakfast | Notes |
 |----------|------|----------------|-----------|-------|
-| **Bucks Head Inn** | Pub | **£140** | Included | 5 rooms. Riverside. ✅ Available Sat 25 Apr. Recommended by Crossways. thebucksheadmeonstoke.co.uk |
+| **Bucks Head Inn** | Pub with rooms | **£140** | Included | ✅ **BOOKED & PAID Sat 25 Apr.** 5 en-suite rooms, riverside. Recommended by Crossways. 0.57mi off trail (trail at ~60m, pub at 57m — no climbing penalty). thebucksheadmeonstoke.co.uk |
 
-**Verdict:** Available but expensive (£140). Fallback if East Meon options don't work out.
+---
 
 ---
 

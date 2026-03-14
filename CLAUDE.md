@@ -31,8 +31,8 @@ Keep in mind suggested "sections" may be too long for our capabilities.
 
 ### Distances (from official mileage chart)
 The current plan covers Winchester (mile 0) to Pyecombe (mile 68) in 6 walking days. Mileage chart distances per stage:
-- Day 1: Winchester → Exton = 12.5mi
-- Day 2: Exton → Buriton = 13mi (trail mile 25.5, Buriton 0.5mi off trail)
+- Day 1: Winchester → Meonstoke = 12.4mi (11.9 trail + 0.57 off-trail to Bucks Head)
+- Day 2: Meonstoke → Clanfield = 11.8mi (10.7 trail + 0.57 + 0.49 off-trail, over Butser Hill)
 - Day 3: Buriton → Cocking = 11mi (Cocking 1mi off trail)
 - Day 4: Cocking → Amberley = 12mi (Amberley station ON trail)
 - Day 5: Amberley → Steyning = 10mi (Steyning 1mi off trail)
@@ -59,7 +59,8 @@ Miles 0–37 (Winchester to Cocking) are researched in detail in accommodation-o
 - King Alfred Winchester: £103 inc breakfast — **sold out Sat 25 Apr**
 - Black Hole Winchester: £172 Sat / ~£89–119 other nights
 - Complyns, Chilcomb: £70 inc breakfast (mile 2.5, ON trail)
-- Crossways B&B, Exton: ~£85–100 unconfirmed (mile 12.5, ON trail)
+- Crossways B&B, Exton: **BOOKED OUT** Sat 25 Apr. Recommended Bucks Head Meonstoke.
+- Bucks Head Inn, Meonstoke: **£140 BOOKED & PAID** (Sat 25 Apr) inc breakfast (mile ~12.8, 0.57mi off trail, 57m elevation — trail is at ~60m here so no climbing penalty). 5 rooms, riverside.
 - SD Eco Lodge hostel twin: £70 (mile ~17, ON trail) — **has availability late April**
 - SD Eco Lodge B&B: from ~£70 (mile ~17, ON trail)
 - Hampshire Hog, Clanfield: **£107 advance / £119 flexible** (Sun 26 Apr) inc breakfast (mile ~25, **0.5mi off trail**, lat 50.95248 lon -0.98334, 145m altitude — +39m climb from trail, similar to trail low point post-Butser Hill — no significant extra climbing penalty)
@@ -70,18 +71,18 @@ Miles 0–37 (Winchester to Cocking) are researched in detail in accommodation-o
 - The Sportsman, Amberley: **£120** (Tue 28 Apr) — ⚠️ possibly only 1 room left
 
 ### Emerging Itinerary (first 4 walking days)
-| Night | Where | Day's walk | Miles | Cost |
-|-------|-------|-----------|-------|------|
-| Fri 24 | Travelodge Winchester | Travel (eve) | — | £70 |
-| Sat 25 | Crossways, Exton | Winchester → Exton | 12.5 | ~£85–100 |
-| Sun 26 | Hampshire Hog, Clanfield | Exton → Clanfield (Butser Hill) | 13 (12.5 + 0.5 off) | £107 |
-| Mon 27 | Manor Farm, Cocking | Clanfield → Cocking (Harting Down) | 13 (11.5 + 1.5 off) | £75–126 |
-| Tue 28 | Black Horse or Sportsman, Amberley | Cocking → Amberley | 13 (12 + 1 off) | £110–120 |
-| Wed 29+ | Not yet researched | Amberley → Steyning → ... | | |
+| Night | Where | Day's walk | Miles | Cost | Status |
+|-------|-------|-----------|-------|------|--------|
+| Fri 24 | Travelodge Winchester | Travel (eve) | — | £70 | ⏳ Book |
+| Sat 25 | Bucks Head, Meonstoke | Winchester → Meonstoke | 12.4 (11.9 trail + 0.57 off) | £140 | ✅ Booked & paid |
+| Sun 26 | Hampshire Hog, Clanfield | Meonstoke → Clanfield (Butser Hill) | 11.8 (10.7 trail + 0.57 + 0.49 off) | £107 | ⏳ Book |
+| Mon 27 | Manor Farm, Cocking | Clanfield → Cocking (Harting Down) | 13 (11.5 + 1.5 off) | £75–126 | ⏳ Phone/book |
+| Tue 28 | Black Horse or Sportsman, Amberley | Cocking → Amberley | 13 (12 + 1 off) | £110–120 | ⏳ Phone/book |
+| Wed 29+ | Not yet researched | Amberley → Steyning → ... | | | |
 
 ### Next Steps
-- **Phone calls:** Black Horse Amberley (verify open + availability!), Five Bells Buriton (cottage price), Manor Farm Cocking (confirm £75 B&B availability), Crossways Exton (rate), SD Eco Lodge (prices). See priority list in accommodation-options.md.
-- **Book urgently:** Black Horse or Sportsman Amberley (1 room each!), Manor Farm Cocking, Crossways Exton
+- **Phone calls:** Black Horse Amberley (verify open + availability!), Five Bells Buriton (cottage price), Manor Farm Cocking (confirm £75 B&B availability), SD Eco Lodge (prices). See priority list in accommodation-options.md.
+- **Book urgently:** Hampshire Hog Clanfield (Sun 26), Black Horse or Sportsman Amberley (1 room each!), Manor Farm Cocking
 - **Research accommodation miles 48–68:** Amberley → Steyning → Pyecombe area
 - **Decide on Brighton accommodation** for rest day(s)
 - **Alternative staging:** "Chilcomb trick" remains a fallback if Friday travel doesn't work — see accommodation-options.md
