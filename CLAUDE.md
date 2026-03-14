@@ -16,6 +16,12 @@ We want to walk west to east, starting in Winchester. We won't make it all the w
 
 Keep in mind suggested "sections" may be too long for our capabilities.
 
+### Google Sheets Spreadsheet
+- **Title:** "South Downs Way (Claude)"
+- **Spreadsheet ID:** `1mHPA6HjeplBMZp_YTz1PTAJUNkSDeDZDMP93Q_KI-TQ`
+- **URL:** https://docs.google.com/spreadsheets/d/1mHPA6HjeplBMZp_YTz1PTAJUNkSDeDZDMP93Q_KI-TQ
+- **Access:** Read/write via Google Sheets API v4 using `gcloud auth print-access-token` (authenticated as rossarn@gmail.com). The CSV export endpoint doesn't work; use the REST API at `sheets.googleapis.com/v4/spreadsheets/{id}` instead.
+
 ## Files
 
 - **CLAUDE.md** - This file. Project context and constraints.
