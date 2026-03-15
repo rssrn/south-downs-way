@@ -72,7 +72,7 @@ Miles 0–37 (Winchester to Cocking) are researched in detail in accommodation-o
 - SD Eco Lodge B&B: from ~£70 (mile ~17, ON trail)
 - Hampshire Hog, Clanfield: **£107 advance / £119 flexible** (Sun 26 Apr) inc breakfast (mile ~25, **0.5mi off trail**, lat 50.95248 lon -0.98334, 145m altitude — +39m climb from trail, similar to trail low point post-Butser Hill — no significant extra climbing penalty)
 - Nest Hotel, Buriton: £130+ and **closed Sun/Mon/Tue** — not an option
-- Manor Farm, Cocking: B&B £75 inc breakfast (mile ~36.5, 1mi off trail) — cheapest option, only 1 room. Also on Airbnb: **Shepherd's Hut £109**, **Log Cabin £126** (both available Mon 27 Apr, self-catering)
+- Manor Farm, Cocking: Shepherd's Hut **£109 BOOKED** (Mon 27 Apr, self-catering, mile ~36.5, 1mi off trail). B&B £75 inc breakfast also available (only 1 room). Log Cabin £126 also available.
 - Five Bells, Buriton: self-catering cottages, **price unknown — must phone**
 - Black Horse, Amberley: **£110** (Tue 28 Apr) — ⚠️ only 1 room left, ⚠️ Google Maps says "temporarily closed" (may be wrong)
 - The Sportsman, Amberley: **£120** (Tue 28 Apr) — ⚠️ possibly only 1 room left
@@ -83,7 +83,7 @@ Miles 0–37 (Winchester to Cocking) are researched in detail in accommodation-o
 | Fri 24 | Travelodge Winchester | Travel (eve) | — | £70 | ⏳ Book |
 | Sat 25 | Bucks Head, Meonstoke | Winchester → Meonstoke | 12.4 (11.9 trail + 0.57 off) | £140 | ✅ Booked & paid |
 | Sun 26 | Hampshire Hog, Clanfield | Meonstoke → Clanfield (Butser Hill) | 11.8 (10.7 trail + 0.57 + 0.49 off) | £107 | ⏳ Book |
-| Mon 27 | Manor Farm, Cocking | Clanfield → Cocking (Harting Down) | 13 (11.5 + 1.5 off) | £75–126 | ⏳ Phone/book |
+| Mon 27 | Manor Farm Shepherd's Hut, Cocking | Clanfield → Cocking (Harting Down) | 13 (11.5 + 1.5 off) | £109 | ✅ Booked |
 | Tue 28 | Black Horse or Sportsman, Amberley | Cocking → Amberley | 13 (12 + 1 off) | £110–120 | ⏳ Phone/book |
 | Wed 29 | Steyning area (see steyning research) | Amberley → Steyning | ~11 | £91–100 | ⏳ Phone/book |
 | Thu 30 | **Brighton** (bus/train from Pyecombe) | Steyning → Pyecombe | ~10.5 | ~£55–72 | ⏳ Book |

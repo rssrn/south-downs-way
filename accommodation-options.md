@@ -33,7 +33,7 @@ Winchester → Chilcomb (2.5) → Exton (12.5) → East Meon area (17) → Burit
 | **Fri 24 Apr** | Winchester (Travelodge) | Travel after work | — | — | **£70** |
 | **Sat 25 (Day 1)** | ✅ Bucks Head, Meonstoke | Winchester → Meonstoke | 11.9 trail + 0.57 off = 12.4 | 306m↑ 271m↓ | **£140** (booked & paid) |
 | **Sun 26 (Day 2)** | Hampshire Hog, Clanfield | Meonstoke → Clanfield via Butser Hill | 10.7 trail + 0.57 + 0.49 off = 11.8 | 341m↑ 298m↓ | **£107** advance |
-| **Mon 27 (Day 3)** | Manor Farm, Cocking | Clanfield → Cocking via Harting Down | 11.5 on-trail + 1.5 off | 439m | **£75** |
+| **Mon 27 (Day 3)** | ✅ Manor Farm Shepherd's Hut, Cocking | Clanfield → Cocking via Harting Down | 11.5 on-trail + 1.5 off | 439m | **£109** (booked, self-catering) |
 | **Tue 28 (Day 4)** | Black Horse or Sportsman, Amberley | Cocking → Amberley | 12 on-trail + 1 off | 422m | **£110–120** |
 | Wed 29+ | **Not yet researched** | Amberley → Steyning → ... | | | |
 
@@ -212,13 +212,13 @@ This is the weakest section for accommodation. Buriton village (0.5mi off trail)
 | Property | Type | Price (double) | Price (single) | Breakfast | Notes |
 |----------|------|----------------|----------------|-----------|-------|
 | **Manor Farm — Log Cabin** | Self-catering (Airbnb) | **£126** | — | No | Working farm. Available Mon 27 Apr. Book via Airbnb. |
-| **Manor Farm — Shepherd's Hut** | Self-catering (Airbnb) | **£109** | — | No | Working farm. Available Mon 27 Apr. Book via Airbnb. |
+| **Manor Farm — Shepherd's Hut** | Self-catering (Airbnb) | **£109** | — | No | ✅ **BOOKED** Mon 27 Apr. |
 | **Manor Farm** | B&B (farmhouse) | **£75** | **£50** | Full English (farm-produced) | **Cheapest confirmed B&B in this stretch** if still available. Packed lunches available. Only 1 room — book early. ☎ 01730 814156 / manorfarmcocking.co.uk |
 | **The Blue Bell** | Pub (community-owned) | **~£100–130** ⚠️ | Unknown | Light continental only | 3 en-suite rooms. ☎ 01730 239 669 / thebluebellatcocking.co.uk |
 | **Moonlight Cottage** | Guest house | **~£90–130** ⚠️ | Unknown | Continental included | Walker-friendly: bag transfers, packed lunches. 4 rooms. ☎ 01730 815469 / moonlightcottage.co.uk |
 | **Hysett House** | B&B | **~£120–160** ⚠️ | Unknown | Included | 1 room. Highly rated but expensive. Via booking.com |
 
-**Verdict:** Manor Farm B&B at £75 is the star if still available — phone to check. Otherwise the Shepherd's Hut at £109 via Airbnb is the next best option. The Log Cabin at £126 is pricier but available.
+**Verdict:** Shepherd's Hut booked at £109. Self-catering so will need to sort dinner/breakfast locally (Blue Bell pub is closed Mondays — plan ahead).
 
 ---
 
