@@ -29,6 +29,7 @@ Keep in mind suggested "sections" may be too long for our capabilities.
 - **south-downs-way-main-plan.csv** - Draft 6-day itinerary (Winchester to Pyecombe). Generated from a previous LLM session. **Distances are roughly correct but accommodation names/prices are unverified and likely inaccurate.**
 - **accommodation-options.md** - Researched accommodation for miles 0–37 (Winchester to Cocking). Prices web-sourced March 2026; some unconfirmed and marked for phone verification. Includes emerging plan, staging analysis, and phone call priority list.
 - **accommodation-research-buriton-area.md** - Detailed Buriton-area research notes (raw findings, supplementary to main file).
+- **accommodation-research-pyecombe-area.md** - Pyecombe area research (too pricey/unavailable) + Brighton options for Day 6 night.
 - **South_Downs_Way_Elev.gpx** - GPX track with elevation data (~10k trackpoints). **Contains alternative routes** so total distance is ~249mi rather than ~100mi. Not suitable for direct distance/elevation calculations without filtering.
 - **sdw-linear.gpx** - Clean single-track GPX from Saturday Walkers Club (784 trackpoints with elevation). Suitable for analysis. Non-commercial use only.
 - **analyze_gpx.py** - Python script to parse GPX and compute per-stage distances, ascent, and descent. Uses scaled mileage-chart distances to locate stage boundaries on the GPX track.
@@ -84,11 +85,24 @@ Miles 0–37 (Winchester to Cocking) are researched in detail in accommodation-o
 | Sun 26 | Hampshire Hog, Clanfield | Meonstoke → Clanfield (Butser Hill) | 11.8 (10.7 trail + 0.57 + 0.49 off) | £107 | ⏳ Book |
 | Mon 27 | Manor Farm, Cocking | Clanfield → Cocking (Harting Down) | 13 (11.5 + 1.5 off) | £75–126 | ⏳ Phone/book |
 | Tue 28 | Black Horse or Sportsman, Amberley | Cocking → Amberley | 13 (12 + 1 off) | £110–120 | ⏳ Phone/book |
-| Wed 29+ | Not yet researched | Amberley → Steyning → ... | | | |
+| Wed 29 | Steyning area (see steyning research) | Amberley → Steyning | ~11 | £91–100 | ⏳ Phone/book |
+| Thu 30 | **Brighton** (bus/train from Pyecombe) | Steyning → Pyecombe | ~10.5 | ~£55–72 | ⏳ Book |
+| Fri 1+ | Brighton (rest day / continue) | — | — | | |
+
+### Pyecombe Area: Too Pricey
+Pyecombe-area accommodation is £130–159/night. South Downs Way B&B Poynings (best option at ~£85) is **unavailable** Thu 30 Apr. Duck Lodge confirmed **£159**. **Plan: get train from Hassocks (1.5mi from Pyecombe, 12 min) to Brighton.** See accommodation-research-pyecombe-area.md.
+
+### Brighton Options (Thu 30 Apr)
+Top picks for budget + character:
+- **Paskins Town House:** ~£65 inc outstanding breakfast, art deco, Kemptown
+- **Sea Spray Brighton:** ~£72 inc breakfast, themed rooms, seafront, couples favourite
+- **Strawberry Fields:** ~£55–65, no breakfast (£5pp baps), stylish, central
+- **ibis Brighton Station:** ~£55–65 (functional, right at station)
+See full research in accommodation-research-pyecombe-area.md.
 
 ### Next Steps
 - **Phone calls:** Black Horse Amberley (verify open + availability!), Five Bells Buriton (cottage price), Manor Farm Cocking (confirm £75 B&B availability), SD Eco Lodge (prices). See priority list in accommodation-options.md.
 - **Book urgently:** Hampshire Hog Clanfield (Sun 26), Black Horse or Sportsman Amberley (1 room each!), Manor Farm Cocking
-- **Research accommodation miles 48–68:** Amberley → Steyning → Pyecombe area
-- **Decide on Brighton accommodation** for rest day(s)
+- **Book Day 5 (Wed 29):** Steyning area — Castle Inn Bramber (£91) or Chequer Inn Steyning (£100). See accommodation-research-steyning-area.md.
+- **Book Day 6 (Thu 30):** Brighton — check Paskins, Sea Spray, or Strawberry Fields for Thu 30 Apr
 - **Alternative staging:** "Chilcomb trick" remains a fallback if Friday travel doesn't work — see accommodation-options.md
