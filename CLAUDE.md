@@ -36,14 +36,14 @@ Keep in mind suggested "sections" may be too long for our capabilities.
 
 ## Key Findings So Far
 
-### Distances (from official mileage chart)
-The current plan covers Winchester (mile 0) to Pyecombe (mile 68) in 6 walking days. Mileage chart distances per stage:
-- Day 1: Winchester → Meonstoke = 12.4mi (11.9 trail + 0.57 off-trail to Bucks Head)
-- Day 2: Meonstoke → Clanfield = 11.8mi (10.7 trail + 0.57 + 0.49 off-trail, over Butser Hill)
-- Day 3: Buriton → Cocking = 11mi (Cocking 1mi off trail)
-- Day 4: Cocking → Amberley = 12mi (Amberley station ON trail)
-- Day 5: Amberley → Steyning = 10mi (Steyning 1mi off trail)
-- Day 6: Steyning → Pyecombe = 8mi (shorter than CSV's 12mi claim)
+### Distances (from official mileage chart, cross-checked against web sources March 2026)
+The current plan covers Winchester (mile 0) to Pyecombe (mile 68) in 6 walking days. Distances are accommodation-to-accommodation including off-trail detours:
+- Day 1: Winchester → Meonstoke = ~12.4mi (11.9 trail + 0.57 off-trail to Bucks Head). Web: 12–12.5mi Winchester to Exton.
+- Day 2: Meonstoke → Hampshire Hog, Clanfield = ~12mi (10.7 trail + 0.57 + 0.49 off-trail, over Butser Hill). Web: 12.5mi Exton to Buriton (our leg slightly shorter).
+- Day 3: Hampshire Hog → Manor Farm (on trail above Cocking) = ~12mi (11.5 trail + 0.5 off from Hog). Web: 11.1mi Buriton to Cocking (we start ~1mi before Buriton). Manor Farm is ON trail so no descent to Cocking village.
+- Day 4: Manor Farm → Amberley = ~12mi (on trail, mile 36.5 to 48.5). Web: 11.8–12mi Cocking to Amberley.
+- Day 5: Amberley → Steyning = ~11mi (10 trail + 1 off to Steyning). Web: 10–11mi confirmed.
+- Day 6: Steyning → Pyecombe = ~10.5mi (1 back to trail + 9.5 trail). Web: consistent with Cicerone stages 7+8 combined.
 
 ### Elevation (from GPX analysis)
 The CSV systematically underestimates climbing. GPX-derived figures for on-trail ascent/descent:
@@ -72,7 +72,7 @@ Miles 0–37 (Winchester to Cocking) are researched in detail in accommodation-o
 - SD Eco Lodge B&B: from ~£70 (mile ~17, ON trail)
 - Hampshire Hog, Clanfield: **£107 advance / £119 flexible** (Sun 26 Apr) inc breakfast (mile ~25, **0.5mi off trail**, lat 50.95248 lon -0.98334, 145m altitude — +39m climb from trail, similar to trail low point post-Butser Hill — no significant extra climbing penalty)
 - Nest Hotel, Buriton: £130+ and **closed Sun/Mon/Tue** — not an option
-- Manor Farm, Cocking: Shepherd's Hut **£109 BOOKED** (Mon 27 Apr, self-catering, mile ~36.5, 1mi off trail). B&B £75 inc breakfast also available (only 1 room). Log Cabin £126 also available.
+- Manor Farm, Cocking: Shepherd's Hut **£109 BOOKED** (Mon 27 Apr, self-catering, mile ~36.5, ON trail above Cocking village). B&B £75 inc breakfast also available (only 1 room). Log Cabin £126 also available.
 - Five Bells, Buriton: self-catering cottages, **price unknown — must phone**
 - Black Horse, Amberley: **£110** (Tue 28 Apr) — ⚠️ only 1 room left, ⚠️ Google Maps says "temporarily closed" (may be wrong)
 - The Sportsman, Amberley: **£120** (Tue 28 Apr) — ⚠️ possibly only 1 room left
@@ -83,8 +83,8 @@ Miles 0–37 (Winchester to Cocking) are researched in detail in accommodation-o
 | Fri 24 | Travelodge Winchester | Travel (eve) | — | £70 | ⏳ Book |
 | Sat 25 | Bucks Head, Meonstoke | Winchester → Meonstoke | 12.4 (11.9 trail + 0.57 off) | £140 | ✅ Booked & paid |
 | Sun 26 | Hampshire Hog, Clanfield | Meonstoke → Clanfield (Butser Hill) | 11.8 (10.7 trail + 0.57 + 0.49 off) | £107 | ⏳ Book |
-| Mon 27 | Manor Farm Shepherd's Hut, Cocking | Clanfield → Cocking (Harting Down) | 13 (11.5 + 1.5 off) | £109 | ✅ Booked |
-| Tue 28 | Black Horse or Sportsman, Amberley | Cocking → Amberley | 13 (12 + 1 off) | £110–120 | ⏳ Phone/book |
+| Mon 27 | Manor Farm Shepherd's Hut, Cocking | Clanfield → Manor Farm (Harting Down) | ~12 (11.5 trail + 0.5 off) | £109 | ✅ Booked |
+| Tue 28 | Black Horse or Sportsman, Amberley | Manor Farm → Amberley | ~12 (on trail) | £110–120 | ⏳ Phone/book |
 | Wed 29 | Steyning area (see steyning research) | Amberley → Steyning | ~11 | £91–100 | ⏳ Phone/book |
 | Thu 30 | **Brighton** (bus/train from Pyecombe) | Steyning → Pyecombe | ~10.5 | ~£55–72 | ⏳ Book |
 | Fri 1+ | Brighton (rest day / continue) | — | — | | |
