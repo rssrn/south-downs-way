@@ -33,6 +33,7 @@ Keep in mind suggested "sections" may be too long for our capabilities.
 - **South_Downs_Way_Elev.gpx** - GPX track with elevation data (~10k trackpoints). **Contains alternative routes** so total distance is ~249mi rather than ~100mi. Not suitable for direct distance/elevation calculations without filtering.
 - **sdw-linear.gpx** - Clean single-track GPX from Saturday Walkers Club (784 trackpoints with elevation). Suitable for analysis. Non-commercial use only.
 - **analyze_gpx.py** - Python script to parse GPX and compute per-stage distances, ascent, and descent. Uses scaled mileage-chart distances to locate stage boundaries on the GPX track.
+- **food-research-cocking-area.md** - Food options in Cocking village and on trail miles 25–37. Key finding: Blue Bell pub CLOSED Mondays (Day 3 arrival). Cadence cafe on ridge open daily 9–15:30. Manor Farm provides continental breakfast. Action items for phone calls.
 
 ## Key Findings So Far
 
